@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Time Square",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.981913231225803, 40.757947141443367 ], [ -73.987304223223532, 40.760273208958075 ], [ -73.981758172469455, 40.768107236464814 ] ] ] } }
+]
+}
